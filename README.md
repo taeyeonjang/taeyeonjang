@@ -1,4 +1,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyjang95&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyjang95)](https://github.com/tyjang95/github-readme-stats)
 
 
   ### taeyeonJANG
