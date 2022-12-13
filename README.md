@@ -4,7 +4,7 @@
   ### taeyeonJANG
   ---
 
-  <a href="https://suave-lilac-075.notion.site/fd0c2a204d8e4fd7b193800c20d5eda0?v=c62e2af146ed446a97b34c86c16d4835"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
+  <a href="https://github.com/taeyeonjang/KB_project"><img src="https://img.shields.io/badge/Github Projects-000000?style=flat-square&logo=github&logoColor=white"/></a> 
   <a href="https://solved.ac/tyjang95"><img alt="solved.ac" src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tyjang95"/></a>
  
   
